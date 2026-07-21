@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "game app",
+    "slug": "game-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#1b1035"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": {
+      "adaptiveIcon": { "backgroundColor": "#1b1035" }
+    }
+  }
+}
